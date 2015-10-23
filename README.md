@@ -37,6 +37,12 @@ See the [x100-focus-ring.stl](x100-focus-ring.stl) file a render.
 ![Side view](view-side.png)
 
 
+## Design
+
+I use [FreeCAD](http://www.freecadweb.org/) to design the focus ring
+sleeve. Feel free to edit the [x100-focus-ring.FCStd](x100-focus-ring.FCStd)
+file if you need to hack this design.
+
 
 ## Copyright
 
